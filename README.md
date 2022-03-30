@@ -2,7 +2,7 @@
 
 I'm Microsoft MVP since 2017.
 
-<a href= "https://mvp.microsoft.com/ja-jp/PublicProfile/5002691?fullName=Atsushi%20Yokohama" rel="noopener noreferrer"><img src="https://beachside.dev/images/MVP_Logo_Horizontal_Secondary_Blue288_CMYK_72ppi.png" /></a>
+<a href= "https://mvp.microsoft.com/ja-jp/PublicProfile/5002691?fullName=Atsushi%20Yokohama" target="_blank" rel="noopener noreferrer"><img src="https://beachside.dev/images/MVP_Logo_Horizontal_Secondary_Blue288_CMYK_72ppi.png" /></a>
 
 - I'm Software Developer, Software Architect, Blogger, Speaker.
 - :heart: PaaS/Serverless services of Azure as a whole
