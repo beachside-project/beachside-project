@@ -6,7 +6,8 @@ I'm Microsoft MVP since 2017.
 
 - I'm Software Developer, Software Architect, Blogger, Speaker.
 - :heart: PaaS/Serverless services of Azure as a whole
-- :heart: GitHub / Azure DevOps
+- :heart: GitHub Enterprise Cloud / Server / EMU
+- :heart: Azure DevOps
 - :heart: C#
 
 
