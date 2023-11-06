@@ -1,4 +1,4 @@
-## Hi there, I'm Atsushi Yokohama a.k.a BEACHSIDE 👋
+## Hi there, I'm Atsushi YOKOHAMA a.k.a BEACHSIDE 👋
 
 I'm Microsoft MVP since 2017.
 
