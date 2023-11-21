@@ -19,9 +19,9 @@ I'm Software Developer, Software Architect, Blogger, Speaker.
 
 ## Social
 
-<a href= "https://twitter.com/BEACH_SIDE" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/bG29Ckcdp6YP/twitterx" width="60" height="60" /></a>
-<a href= "https://www.facebook.com/atsushi.yokohama" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/44003/facebook" width="60" height="60" /></a>
-<a href= "https://www.linkedin.com/in/atsushi-yokohama/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/44019/linkedin" width="60" height="60" /></a>
+<a href= "https://twitter.com/BEACH_SIDE" target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
+<a href= "https://www.facebook.com/atsushi.yokohama" target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/facebook.png" alt="facebook"/></a>
+<a href= "https://www.linkedin.com/in/atsushi-yokohama/" target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
 
 
 
